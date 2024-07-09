@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "944321296599",
+    "project_id": "explore-uganda-13576",
+    "storage_bucket": "explore-uganda-13576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944321296599:android:9b662629299a36127d5892",
+        "android_client_info": {
+          "package_name": "com.example.explore_uganda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944321296599-h1ectolit6sovenpfo990brdpjqbh8ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0SmJhJrYQogDOrSxphKEn1sUujs3cYxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944321296599-h1ectolit6sovenpfo990brdpjqbh8ph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944321296599-mabmvajjikumcbqo3kn9ts09203fub94.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.exploreUganda"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
